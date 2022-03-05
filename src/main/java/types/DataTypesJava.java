@@ -14,7 +14,7 @@ public class DataTypesJava {
     boolean aBoolean = false;
 
     // Reference data type
-    String aString = "Hello!";
+    String aString = "Hello World and Piece!";
 
     public static void main(String[] args) {
         // + -- summation
