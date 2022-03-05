@@ -3,7 +3,7 @@ package types;
 public class DataTypesJava {
     // Primitive data types
     byte aByte; // 8 bit -128 ... 127
-    short aShort = 100; // 16 bit -32768 ... 32767
+    short aShort = 222; // 16 bit -32768 ... 32767
     int aInt = 1_100_000; // 32 bit -2 ^ 31 ... (2 ^ 31) -1
     long aLong = 100L; // 64 bit -2 ^ 63 ... (2 ^ 63) -1
 
@@ -14,7 +14,7 @@ public class DataTypesJava {
     boolean aBoolean = false;
 
     // Reference data type
-    String aString = "Hello World!";
+    String aString = "Hello World and Piece!";
 
     public static void main(String[] args) {
         // + -- summation
